@@ -1,0 +1,2 @@
+# Jotto
+CSSI PROJECT
